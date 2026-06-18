@@ -1,52 +1,75 @@
-<!-- ![banner](https://github.com/your-username/your-username/blob/main/banner.png) -->
-
 <h1 align="center">Hi 👋, I'm Nisxall</h1>
 
 <h3 align="center">
-CS Undergrad | Competitive Programmer | Full-Stack Web Developer
+CS Undergrad | Competitive Programmer | Full-Stack Developer
 </h3>
-
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nisxall&label=Profile%20views&color=0e75b6&style=flat" />
-</p> -->
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 BTech CS student (pre-final year)
-- ⚙️ Strong in **C++ | DSA | Competitive Programming**
-- 🌐 Building full-stack apps with **Next.js, React, Node.js**
-- 🧠 Exploring **System Design + Machine Learning**
-- 🚀 Codeforces Expert (peak ~1684)
+- ⚙️ Strong in **C++ | Data Structures & Algorithms | Competitive Programming**
+- 🌐 Building scalable full-stack applications with **Next.js, React, Node.js**
+- 🧠 Interested in **System Design, Backend Architecture & Machine Learning**
+- 🚀 Codeforces Expert (1684 max)
 - 🇳🇵 From Nepal
 
 ---
 
-## 🧠 Interests
+## 🧠 Focus Areas
 
-- Competitive Programming & Problem Solving  
-- Scalable backend systems  
-- APIs, architecture & performance  
-- Machine Learning (in progress)
+- Competitive Programming & Problem Solving
+- Backend Systems & Scalable Architecture
+- REST APIs & Performance Optimization
+- Clean UI + Product Thinking
+- Learning Production-grade System Design
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages & Core
+### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts" />
 </p>
 
-### 🧰 Development & Backend Tools
+### 🌐 Full Stack Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,redis,docker" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
-  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+</p>
+
+### ⚙️ Backend, Databases & Infra
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,redis,docker" />
+</p>
+
+### 🧰 Tools
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
+
+---
+
+## 🏆 Competitive Programming
+
+- 💻 Codeforces: **Expert (1684 max)**
+- 📈 Goal: **Candidate Master (1900+)**
+- ⚔️ Core strengths:
+  - Dynamic Programming
+  - Graph Algorithms
+  - Greedy Techniques
+  - Binary Search & Implementation
+
+---
+
+## 🚀 What I'm Working On
+
+- Building production-grade full-stack apps
+- Implementing Redis + queue-based systems (BullMQ)
+- Designing scalable backend architectures
+- Strengthening system design fundamentals
+- Improving CP rating consistently
 
 ---
 
@@ -63,23 +86,6 @@ CS Undergrad | Competitive Programmer | Full-Stack Web Developer
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisXall&layout=compact" />
 </p>
-
----
-
-## 🏆 Competitive Programming
-
-- 💻 Codeforces: Expert (1684 max)
-- ⚔️ Strong focus on DP, Graphs, Greedy, Implementation
-- 📈 Actively pushing towards CM (1900+)
-
----
-
-## 🌱 Currently Learning
-
-- Advanced DSA patterns  
-- System Design fundamentals  
-- Full-stack production-grade apps  
-- Machine Learning
 
 ---
 
@@ -100,5 +106,5 @@ CS Undergrad | Competitive Programmer | Full-Stack Web Developer
 ---
 
 <p align="center">
-⚡ Keep building. Keep improving. ⚡
+⚡ Building, learning, and improving every day. ⚡
 </p>
