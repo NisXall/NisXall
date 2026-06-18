@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nisxall</h1>
+<h1 align="center">Hi 👋, I'm Nischal</h1>
 
 <h3 align="center">
-CS Undergrad | Competitive Programmer | Full-Stack Developer
+CS Undergrad | Competitive Programmer | Full-Stack Developer | ML enthusiast
 </h3>
 
 ---
