@@ -89,6 +89,12 @@ CS Undergrad | Competitive Programmer | Full-Stack Developer | ML enthusiast
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nisxall/nisxall/output/github-contribution-grid-snake.svg" />
+</p>
+
 ## 🤝 Connect with Me
 
 <p>
